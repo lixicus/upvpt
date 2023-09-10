@@ -1,20 +1,20 @@
 [
   {
-    "name": "vpet",
-    "url": "https://vpet.ro/",
-    "icon": "https://icons.duckduckgo.com/ip3/vpet.ro.ico",
-    "slug": "vpet",
+    "name": "n2",
+    "url": "https://nivelul2.ro/",
+    "icon": "https://icons.duckduckgo.com/ip3/nivelul2.ro.ico",
+    "slug": "n2",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 1102,
+    "timeDay": 1102,
+    "timeWeek": 1102,
+    "timeMonth": 1102,
+    "timeYear": 1102,
     "dailyMinutesDown": {}
   }
 ]
