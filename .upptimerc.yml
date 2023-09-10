@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: n2
     url: https://nivelul2.ro/
+  - name: vp
+    url: https://vpet.ro/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
