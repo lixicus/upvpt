@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpet.ro.ico",
     "slug": "vp",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1455,
     "timeDay": 1660,
     "timeWeek": 1455,
     "timeMonth": 1455,
     "timeYear": 1455,
-    "dailyMinutesDown": {
-      "2023-09-11": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
