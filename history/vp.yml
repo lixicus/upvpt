@@ -1,7 +1,7 @@
 url: https://vpet.ro/
-status: up
-code: 200
-responseTime: 2154
-lastUpdated: 2023-11-01T23:10:34.627Z
+status: down
+code: 503
+responseTime: 576
+lastUpdated: 2023-11-02T04:53:17.891Z
 startTime: 2023-09-10T16:17:30.822Z
 generator: Upptime <https://github.com/upptime/upptime>
