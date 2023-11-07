@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nivelul2.ro.ico",
     "slug": "n2",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1178,
-    "timeDay": 1660,
-    "timeWeek": 1196,
-    "timeMonth": 1134,
-    "timeYear": 1178,
-    "dailyMinutesDown": {
-      "2023-11-06": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1202,
+    "timeDay": 1743,
+    "timeWeek": 1366,
+    "timeMonth": 1190,
+    "timeYear": 1202,
+    "dailyMinutesDown": {}
   },
   {
     "name": "vp",
@@ -30,11 +28,11 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
-    "time": 1756,
-    "timeDay": 3069,
-    "timeWeek": 2913,
-    "timeMonth": 2338,
-    "timeYear": 1756,
+    "time": 1781,
+    "timeDay": 3527,
+    "timeWeek": 2931,
+    "timeMonth": 2410,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2023-11-02": 35,
       "2023-10-25": 38
