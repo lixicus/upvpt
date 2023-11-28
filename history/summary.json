@@ -4,19 +4,19 @@
     "url": "https://nivelul2.ro/",
     "icon": "https://icons.duckduckgo.com/ip3/nivelul2.ro.ico",
     "slug": "n2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1308,
-    "timeDay": 2718,
-    "timeWeek": 1879,
-    "timeMonth": 1515,
-    "timeYear": 1308,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1322,
+    "timeDay": 2588,
+    "timeWeek": 1952,
+    "timeMonth": 1543,
+    "timeYear": 1322,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 12
     }
   },
   {
