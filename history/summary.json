@@ -4,9 +4,9 @@
     "url": "https://nivelul2.ro/",
     "icon": "https://icons.duckduckgo.com/ip3/nivelul2.ro.ico",
     "slug": "n2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1348,
     "timeMonth": 1518,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-12": 0
+    }
   },
   {
     "name": "vp",
